@@ -18,3 +18,5 @@ pip install -r requirements.txt
 ```
 
 ## 3. Run the cells in the notebook cell by cell
+
+Video walkthrough: https://drive.google.com/file/d/1oRxeKkBkwo3POQYUNdyTOOlE_2HR49Bd/view?usp=sharing
