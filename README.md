@@ -3,7 +3,7 @@
 This project aimed to develop a sentiment analysis model to predict whether a movie review is positive or negative using natural language processing and machine learning techniques. By training and testing a Logistic Regression model on a labeled dataset of 50,000 movie reviews, we gained insights into public opinion and ensured the model’s generalizability through an external test set.
 
 # Dataset
-Train/test Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/data 
+Train/test Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/data   
 External Dataset: https://www.kaggle.com/datasets/yasserh/imdb-movie-ratings-sentiment-analysis/data
 # Setup
 
